@@ -1,10 +1,16 @@
+## Relatório do Primeiro Circuito Eletrônico - Ascendendo um LED com Arduino
 
-## Relatório Arduino
+O seguinte relatório sobre o primeiro circuito eletrônico, da primeira missão introdutória do projeto Origin, tem como objetivo 
+a utilização da placa de prototipagem Arduino para piscar um LED com diferentes períodos de tempo. Para isso, foi utilizada a
+ferramente Tinkercard para a criação do circuito.
+O primeiro passo foi lê os conteudos disponibilizados e assistir aos videos. Depois foi criar um novo projeto no Tinkercard na parte de circuitos, feito isso, separei os componentes que seriam precisos na montagem do circuito, uma placa de ensaio pequena, uma LED, um resistor com resistência de 220, uma placa arduino Uno R3.
+colocando a placa de ensaio pequena, coloquei o resistor e a lampâda nas posições corretas, depois fiz a ligação negativa. 
 
-<img alight="left" src="https://ensinosuperiorindigena.files.wordpress.com/2011/12/ufcg1.jpg" height="100" widght="100">
-UNIVERSIDADE FEDERAL DE CAMPINA GRANDE 
-UNIDADE ACADÊMICA DE SISTEMAS E COMPUTAÇÃO – UASC CURSO DE GRADUAÇÃO EM CIÊNCIA DA COMPUTAÇÃO 
 AUTOR: **Rayane Bezerra da Silva** 
+
+
+
+
 
 
 
