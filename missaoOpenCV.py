@@ -1,7 +1,7 @@
-# Importação das bibliotecas
+# Importação das biblioteca opencv 
 import cv2
 # Leitura da imagem com a função imread()
-imagem = cv2.imread('rayrayandcintia.jpg')
+imagem = cv2.imread('exemplo.jpg')
 print('Largura em pixels: ', end='')
 print(imagem.shape[1]) #largura da imagem
 print('Altura em pixels: ', end='')
