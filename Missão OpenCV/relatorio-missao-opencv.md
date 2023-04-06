@@ -1,5 +1,7 @@
 ## Relatório visão computacional - conhecendo o OpenCv
 
+AUTOR: **Rayane Bezerra da Silva** 
+
 1. Período de realização: 
     01/04 a 05/04
 
